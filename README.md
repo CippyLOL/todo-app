@@ -1,2 +1,2 @@
 # todo-app
-testing nextjs and dry
+testing nextjs and drf
